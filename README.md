@@ -28,13 +28,7 @@ Uses Regular Expressions (Regex)
 
 Console-based user input
 
-## Project Structure
-compiler_lec1
-│
-├── Main.java      // Entry point
-├── Lexer.java     // Tokenization logic
-└── Token.java     // Token representation
-##How to Run
+###How to Run
 
 Open the project in Eclipse or any Java IDE.
 
@@ -62,8 +56,17 @@ Pattern matching using Regex
 
 Basic compiler architecture
 
-## Example Input
+
 ```java
+## Project Structure
+
+compiler_lec1
+│
+├── Main.java      // Entry point
+├── Lexer.java     // Tokenization logic
+└── Token.java     // Token representation
+## Example Input
+و
 int x = 10 + 5; 
 if (x > 5) return;
 
